@@ -1,2 +1,4 @@
 #data stored as .txt
 *.txt
+
+.ipynb_checkpoints/
