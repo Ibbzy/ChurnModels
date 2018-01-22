@@ -153,4 +153,6 @@ xgb,logreg = train(X,y)
 
 #predictions
 
-xgb.predict(Xh)
+Xh.columns = ['f0', 'f1', 'f2', 'f3', 'f4', 'f5', 'f6', 'f7', 'f8']
+print logreg.predict(Xh)
+print xgb.predict(Xh)
