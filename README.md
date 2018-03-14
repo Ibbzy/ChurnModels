@@ -1,2 +1,2 @@
-# ASOS
-Modelling churn - data science task for ASOS
+# Churn task
+Modelling churn - data science task
