@@ -1,6 +1,6 @@
 # Ibrahim Said
 
-# ASOS - Churn Modelling
+# Churn Modelling
 
 # import pandas and numpy
 import numpy as np
